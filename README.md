@@ -45,7 +45,7 @@ MTF-LSTM模型训练，运行代码"MTF-LSTM.py"
 
 MTF-LSTM-SP模型训练，运行代码"MTF-LSTM-SP.py"
 
-本文训练好的MTF-LSTM和MTF-LSTM-SP模型保存在文件夹/algorithm/models中，可直接运行来看模型训练效果，鉴于存储空间太大，放入阿里云盘中，通过上述链接可下载。
+本文训练好的MTF-LSTM和MTF-LSTM-SP模型保存在文件夹/algorithm/models中，可直接运行来看模型训练效果，鉴于存储空间太大，放入云盘中，通过上述链接可下载。
 将models文件夹直接放入algorithm文件夹即可运行。
 
 MTF-LSTM模型：运行"MTF-LSTM-test.py"
