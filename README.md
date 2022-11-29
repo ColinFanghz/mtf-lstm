@@ -53,4 +53,4 @@ MTF-LSTM-SP模型：运行"MTF-LSTM-SP-test.py"
 
 ## 后记
 
-有任何代码问题，欢迎联系：fhz_colin@xs.ustb.edu.cn
+有任何代码问题，在Issues提问或者直接联系：fhz_colin@xs.ustb.edu.cn
