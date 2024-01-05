@@ -1,7 +1,7 @@
 # MTF-LSTM
 
 ## Introduction
-It's the code of paper "Vehicle Trajectory Prediction of Highway Based on Mixed Teaching Force LSTM", which is implement in PyTorch.
+It's the code of paper "Vehicle Trajectory Prediction Based on Mixed Teaching Force Long Short-term Memory", which is implement in PyTorch.
 
 ## Package
 numpy                         1.23.4
@@ -46,6 +46,12 @@ MTF-LSTM-SP model training, run"MTF-LSTM-SP.py"
 
 The trained MTF-LSTM and MTF-LSTM-SP models in this paper are saved in the folder /algorithm/models, which can be run directly to see the training effect of the model.
 You can run directly to see the training effect of the model. In view of the large storage space, you can put it into the cloud disk and download it through the above link.
+
+## Citation of papers
+
+Huazhen. Fang, Li. Liu, Xiaofeng. Xiao, Qing. Gu, and Yu. Meng, “Vehicle trajectory prediction based on mixed teaching force long short-term memory,”Journal of Transportation Systems Engineering and Information Technology, vol. 23, no. 04, pp. 80–87, 2023.
+
+DOI: 10.16097/j.cnki.1009-6744.2023.04.009
 
 ## Postscript
 
